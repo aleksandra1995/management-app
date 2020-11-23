@@ -1,0 +1,11 @@
+/* .ant-page-header {
+    color: white
+  } */
+
+  .ant-page-header-heading-title {
+color: white;
+  }
+
+  .ant-layout-header {
+      padding: 0px;
+  }
